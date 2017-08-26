@@ -4,6 +4,7 @@
 	</head>
 	<body>
 		<?php
+		echo "Cambios por programador2"
 		$nombre = "Vicente Monfort"
 		$edad = " 40 años"
 		echo $nombre;
